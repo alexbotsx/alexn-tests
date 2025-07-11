@@ -1,4 +1,4 @@
-/* Codigo copiado de GataBot-MD */
+/* Codigo copiado de BOT*/
 
 import { sticker } from '../src/libraries/sticker.js';
 import axios from 'axios';

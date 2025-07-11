@@ -1,5 +1,5 @@
 {
-  "name": "TheMystic-Bot-MD",
+  "name": "UnKnBOT",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -17,16 +17,16 @@
     "eslintfix": "eslint --fix .",
     "postinstall": "node pipdeps.js"
   },
-  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "homepage": "https://github.com/BrunoSobrino/UnKnBOT",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+    "url": "git+https://github.com/BrunoSobrino/UnKnBOT.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+    "url": "https://github.com/BrunoSobrino/UnKnBOT/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

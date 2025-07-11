@@ -30,7 +30,7 @@ global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
 global.author = 'BrunoSobrino';
-global.wm = 'The Mystic - Bot';
+global.wm = 'UnKnBOT';
 global.titulowm = 'Mystic Bot';
 global.titulowm2 = `Mystic Bot`
 global.igfg = 'The Mystic';
@@ -53,12 +53,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
+global.wm2 = `${dia} ${fecha}\nUnKnBOT`;
+global.gt = 'UnKnBOT';
+global.mysticbot = 'UnKnBOT';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
+global.md = 'https://github.com/BrunoSobrino/UnKnBOT';
+global.mysticbot = 'https://github.com/BrunoSobrino/UnKnBOT';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';

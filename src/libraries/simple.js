@@ -2028,7 +2028,7 @@ export function smsg(conn, m, hasParent) {
 }
 
 // https://github.com/Nurutomo/wabot-aq/issues/490
-// Fix 2025 - @BrunoSobrino - LID Resolved
+// Fix 2025 - @UnKnBOT- LID Resolved
 export function serialize() {
   const MediaType = ["imageMessage", "videoMessage", "audioMessage", "stickerMessage", "documentMessage",];
   const safeEndsWith = (str, suffix) =>
